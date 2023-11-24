@@ -1,7 +1,3 @@
-ar i: s){
-    if(i == letter)
-        ctr++;
-}
 double ctr = 0;
 
 for(char i: s){
